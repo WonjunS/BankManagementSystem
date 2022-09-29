@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.exe
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.deps.json
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.runtimeconfig.json
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.dll
+C:\Users\User\source\repos\Bank Management System\Bank Management System\bin\Debug\netcoreapp3.1\Bank Management System.pdb
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.AssemblyInfo.cs
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.dll
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.pdb
+C:\Users\User\source\repos\Bank Management System\Bank Management System\obj\Debug\netcoreapp3.1\Bank Management System.genruntimeconfig.cache
